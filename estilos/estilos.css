@@ -2,7 +2,9 @@
 
 - 'Lucida Sans Unicode', 'Lucida Grande', sans-serif
 - Impact, Charcoal, sans-serif (TITULO)
-- Arial, Gadget, sans-serif */
+- Arial, Gadget, sans-serif 
+
+- 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif RESTAURANTES */
 
 
 
@@ -95,7 +97,7 @@ p{
 }
 
 .img5{
-    border: 3px solid rgb(155, 167, 173);
+    border: 3px solid rgb(155, 167, 173);   
     position: relative;
     left: 40px;
 }

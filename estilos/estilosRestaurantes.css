@@ -1,0 +1,30 @@
+/* 
+'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+*/
+
+
+header{
+    background-color: rgb(46, 172, 109);
+}
+
+main{
+    background-color:rgb(46, 172, 109) ;
+}
+
+body{
+    background-color:rgb(46, 172, 109) ;
+}
+
+h1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    color: yellow;
+    font-size: 45px  ;
+
+
+}
+
+img{
+    border: 10px solid white;
+    
+}
