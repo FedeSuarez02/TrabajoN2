@@ -24,7 +24,67 @@ h1{
 
 }
 
+.fotos{
+    text-align: center;
+}
+
 img{
     border: 10px solid white;
+    
+
+}
+
+
+.barcelona{
+    height: auto;
+    margin: 5px;
+}
+
+.buenos-aires{
+    height: auto;
+    margin: 5px;
+}
+
+.madrid{
+    height: auto;
+    margin: 5px;
+
+}
+
+.miami{
+    height: auto;
+    margin: 5px;
+}
+
+.paris{
+    height: auto;
+    margin: 5px;
+}
+
+.pipa{
+    height: auto;
+    margin: 5px;
+}
+
+.rio-de-janeiro{
+    height: auto;
+    margin: 5px;
+    
+    
+}
+
+.roma{
+    height: auto;
+    margin: 5px;
+}
+
+.rosario{
+    height: auto;
+    margin: 5px;
+}
+
+.tokio{
+    height: auto;
+    margin: 5px;
     
 }
