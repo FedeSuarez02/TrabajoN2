@@ -1,0 +1,93 @@
+
+img{
+    width: 100%;
+    height:auto;
+    
+}
+
+.links{
+    color: rgb(245, 92, 36);
+    font-family: Verdana, Arial, sans-serif ;
+    font-weight: bold;
+    display: inline;
+
+}
+
+h1{
+    font-family: Verdana, Arial, sans-serif ;
+    color: #775548;
+    font-size: 40px;
+}
+
+
+.subtitulos{
+    color: #E1D4CF;
+    background-color: #775548;
+    font-family: Verdana, Arial, sans-serif ;
+    font-size: 20px;
+
+}
+
+.subtitulos3{
+    color: #D8B03B;
+    background-color: #775548;
+    font-family: Verdana, Arial, sans-serif ;
+    font-size: 20px;
+
+}
+
+li{
+    color: #775548;
+    font-family: Verdana, Arial, sans-serif ;
+}
+
+p{
+    color: #775548;
+    font-family: Verdana, Arial, sans-serif ;
+
+}
+
+.aguacaliente{
+    font-weight: bold;
+    color: #775548;
+    font-family: Verdana, Arial, sans-serif ;
+}
+
+.cabañas{
+    color: rgb(245, 92, 36);
+    font-weight: bold;
+    text-decoration: underline;
+
+}
+
+.carpas{
+    color: rgb(245, 92, 36);
+    font-weight: bold;
+    text-decoration: underline;
+
+
+}
+
+.bicicletas{
+    color: rgb(245, 92, 36);
+    font-weight: bold;
+    text-decoration: underline;
+
+
+}
+
+.atencion{
+    font-weight: bold;
+}
+
+.lanacion{
+    color: #3AABC4;
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+.pagina12{
+    color: #EF4B51;
+    font-weight: bold;
+    text-decoration: underline;
+}
