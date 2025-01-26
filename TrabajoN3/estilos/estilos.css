@@ -28,13 +28,6 @@ h1{
 
 }
 
-.subtitulos3{
-    color: #D8B03B;
-    background-color: #775548;
-    font-family: Verdana, Arial, sans-serif ;
-    font-size: 20px;
-
-}
 
 li{
     color: #775548;
@@ -47,11 +40,6 @@ p{
 
 }
 
-.aguacaliente{
-    font-weight: bold;
-    color: #775548;
-    font-family: Verdana, Arial, sans-serif ;
-}
 
 .cabañas{
     color: rgb(245, 92, 36);
@@ -90,4 +78,18 @@ p{
     color: #EF4B51;
     font-weight: bold;
     text-decoration: underline;
+}
+
+.subtitulos3{
+    color: #D8B03B;
+    background-color: #775548;
+    font-family: Verdana, Arial, sans-serif ;
+    font-size: 20px;
+
+}
+
+.prosegur{
+    color: #EF4B51;
+    font-weight: bold;
+
 }
